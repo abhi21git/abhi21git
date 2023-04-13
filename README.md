@@ -1,5 +1,5 @@
 # 💫 About Me:
-  iOS Software Development Engineer<br>👨🏻‍💻 Working at ![Gojek](https://www.gojek.io/)<br>💬 Ask about any random fact (iOS or in general)<br>📱 Would love to collaborate on iOS projects<br>🔋 Learning new frameworks and SwiftUI 
+  iOS Software Development Engineer<br>👨🏻‍💻 Working at [Gojek](https://www.gojek.io/)<br>💬 Ask about any random fact (iOS or in general)<br>📱 Would love to collaborate on iOS projects<br>🔋 Learning new frameworks and SwiftUI 
 
 
 ## 🌐 Socials:
@@ -7,13 +7,16 @@
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhi21git&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhi21git&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhi21git&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhi21git&limit=5&theme=dark&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=AbhishekM97)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -21,13 +24,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhi21git&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhi21git&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
