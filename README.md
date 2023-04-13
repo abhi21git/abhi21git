@@ -9,6 +9,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhi21git&theme=dark&hide_border=true)
 
@@ -16,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=abhi21git&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhi21git&limit=5&theme=dark&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=abhi21git&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=AbhishekM97)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
