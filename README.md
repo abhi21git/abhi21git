@@ -11,13 +11,13 @@
 # 📊 GitHub Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi21git&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=abhi21git&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi21git&theme=dark&hide_border=true" width="50%"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhi21git&theme=darkhub&no-frame=true&no-bg=false&margin-w=4">
+<img src="https://github-profile-trophy.vercel.app/?username=abhi21git&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="100%">
 </div>
 
 ### 🔝 Top Contributed Repo
