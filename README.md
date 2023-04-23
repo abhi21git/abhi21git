@@ -33,7 +33,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" width="40%"/>
 
 ### 😂 Random Dev Meme
-<img src="https://readme-jokes.vercel.app/api" width="40%"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" width="40%"/>
 
 ---
 <div align="right">
