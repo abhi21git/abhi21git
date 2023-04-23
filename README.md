@@ -1,6 +1,9 @@
 # 💫 About Me:
-  iOS Software Development Engineer<br>👨🏻‍💻 Working at [Gojek](https://www.gojek.io/)<br>💬 Ask about any random fact (iOS or in general)<br>📱 Would love to collaborate on iOS projects<br>🔋 Learning new frameworks and SwiftUI 
-
+*  iOS Software Development Engineer<br>
+* 👨🏻‍💻 Working at [Gojek](https://www.gojek.io/)<br>
+* 💬 Ask about any random fact (iOS or in general)<br>
+* 📱 Would love to collaborate on iOS projects<br>
+* 🔋 Learning new frameworks and SwiftUI 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhi21sept) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhishek_maurya__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekm21) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AbhishekMaurya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11690901) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/abhishekmaurya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbhishekM97) 
@@ -30,7 +33,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" width="40%"/>
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="40%"/>
+<img src="https://readme-jokes.vercel.app/api" width="40%"/>
 
 ---
 <div align="right">
