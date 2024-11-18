@@ -1,6 +1,6 @@
 # 💫 About Me:
 *  iOS Software Development Engineer<br>
-* 👨🏻‍💻 Working at [Gojek](https://www.gojek.io/)<br>
+* 👨🏻‍💻 Working at [Zomato](https://www.zomato.com/)<br>
 * 💬 Ask about any random fact (iOS or in general)<br>
 * 📱 Would love to collaborate on iOS projects<br>
 * 🔋 Learning new frameworks and SwiftUI 
