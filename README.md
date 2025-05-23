@@ -1,6 +1,6 @@
 # 💫 About Me:
 *  iOS Software Development Engineer<br>
-* 👨🏻‍💻 Working at [Zomato](https://www.zomato.com/)<br>
+* 👨🏻‍💻 Working at [Apple](https://www.apple.com/careers), previously worked for [Eternal (formaly known as Zomato)](https://www.eternal.com/careers/) and [Gojek](https://www.gojek.io/careers)<br>
 * 💬 Ask about any random fact (iOS or in general)<br>
 * 📱 Would love to collaborate on iOS projects<br>
 * 🔋 Learning new frameworks and SwiftUI 
