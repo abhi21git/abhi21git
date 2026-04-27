@@ -25,24 +25,10 @@
 # 📊 GitHub Stats:
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi21git&theme=dark&include_all_commits=true&count_private=true&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=abhi21git&theme=dark&include_all_commits=true&count_private=true" width="45%"/>
 </div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhi21git&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="100%">
-</div>
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=abhi21git&limit=5&theme=dark&combine_all_yearly_contributions=true">
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" width="40%"/>
 
 ### 😂 Random Dev Meme
 <img src="https://readme-jokes.vercel.app/api?hideBorder" width="40%"/>
-
----
-<div align="right">
-<img src="https://visitcount.itsvg.in/api?id=abhi21git&icon=5&color=1">
-</div>
